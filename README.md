@@ -1,6 +1,7 @@
 # L293D Motor Driver PCB Design (KiCad)
-
-![L293D Motor Driver PCB](./Screenshot%202025-04-28%20130254.png)
+<p align="center">
+  <img src="./Screenshot%202025-04-28%20130254.png" alt="L293D Motor Driver PCB" width="400"/>
+</p>
 
 ## 🛠️ Project Overview
 
